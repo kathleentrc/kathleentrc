@@ -2,8 +2,6 @@
 
 # Hi 👋, I'm Kathleen
 
-### I design and develop mobile and web-based interfaces that invite inclusivity and create meaningful user experiences.
-
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kathleentrc)
