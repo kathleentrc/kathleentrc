@@ -60,11 +60,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
-<br><br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kathleentrc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&border_radius=10" height="170" alt="languages graph" />
-</div>
+
 
 
 <br>
