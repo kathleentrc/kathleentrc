@@ -1,8 +1,4 @@
-<div align="center">
-
-# Hi 👋, I'm Kathleen
-
-<br>
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kathleentrc)
 [![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logoColor=white)](https://kathleencruz.vercel.app)
@@ -58,13 +54,6 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-</div>
-
-
-<br><br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kathleentrc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&border_radius=10" height="170" alt="languages graph" />
 </div>
 
 
